@@ -1,0 +1,35 @@
+.is-ae p {
+	color: #666
+}
+
+.is-ae h1, .is-ae h2, .is-ae h3, .is-ae h4, .is-ae h5, .is-ae h6 {
+	color: #333
+}
+
+.is-ae .car-list .book-box {
+	background-color: #f7f8f8
+}
+
+.is-ae #carlisting aside > h4, .is-ae .car-list .book-label {
+	background-color: #00a0e1
+}
+
+.is-ae .car-list .book-label:before {
+	background-image: url(/assets/images/ribbon-ae-2178e138eaf1e7fef3970fae0f0c7625.png)
+}
+
+.is-ae #carlisting aside > h4:after {
+	border-top-color: #00a0e1
+}
+
+.is-ae .booking-page-type .price-per-day span {
+	background: #00a0e1
+}
+
+.is-ae .btn.orange {
+	background-color: #fb7e14
+}
+
+.is-ae .alert.yellow {
+	background: #fff5dc
+}
