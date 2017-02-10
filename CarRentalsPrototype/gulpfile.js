@@ -26,15 +26,15 @@ gulp.task('default', ['sass'], function () {
 
 /*-- for external connections --*/
 var webserver = require('gulp-webserver');
+var directory = "./";
 
 gulp.task('server', function () {
-    gulp.src('./')
+    gulp.src(directory)
         .pipe(webserver({
-            livereload: false,
-            directoryListing: {enable: true, path: './'},
+            directoryListing: {enable: true, path: directory},
             open: false,
-            host: "localhost",
-            fallback: 'carrentals/index.html'
+            host: "0.0.0.0",
+            fallback: 'index.html'
         }));
 });
 /*-- end --*/
