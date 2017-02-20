@@ -1371,7 +1371,7 @@
                         }
                     };
 
-                    console.log("15.0. fareFinder deeplink overwrite");
+                    console.log("16.0. fareFinder deeplink overwrite");
 
                     // go to the Offers page with no deeplink on back end
                     window.onload=function() {
@@ -1384,6 +1384,11 @@
                             // LAX
                             if ($('.pickup-container .twitter-typeahead .tt-menu b').text().match("LAX")) {
                                 window.location.href=("offers/offers_LAX.html");
+                            }
+
+                            // AUS -> SFO | One Way
+                            if ($('.pickup-container .twitter-typeahead .tt-menu b').text().match("AUS") && $('.dropoff-container .twitter-typeahead .tt-menu b').text().match("SFO")) {
+                                window.location.href=("offers/offers_AUS_LAX.html");
                             }
                         });
                     };
