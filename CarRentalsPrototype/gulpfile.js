@@ -19,7 +19,7 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('css'));
 });
 
-gulp.task('default', ['sass'], function () {
+gulp.task('default', ['sass', 'server'], function () {
     gulp.watch(['scss/**/*.scss'], ['sass']);
 });
 
@@ -33,7 +33,8 @@ gulp.task('server', function () {
         .pipe(webserver({
             directoryListing: {enable: true, path: directory},
             open: false,
-            host: "0.0.0.0",
+            port: process.env.OPENSHIFT_NODEJS_PORT || 8080,
+            host: process.env.OPENSHIFT_NODEJS_IP || "0.0.0.0",
             fallback: 'index.html'
         }));
 });
