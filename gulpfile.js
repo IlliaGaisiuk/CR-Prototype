@@ -19,7 +19,9 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('css'));
 });
 
-gulp.task('default', ['sass', 'server'], function () {
+gulp.task('default', ['sass', 'server']);
+
+gulp.task('watcher', ['sass', 'server'], function () {
     gulp.watch(['scss/**/*.scss'], ['sass']);
 });
 
