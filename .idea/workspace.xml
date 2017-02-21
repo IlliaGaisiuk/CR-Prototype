@@ -34,8 +34,8 @@
       <file leaf-file-name="offers_AUS_LAX_mWebCollapsible.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33283803">
-              <caret line="735" column="33" selection-start-line="735" selection-start-column="33" selection-end-line="735" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.35809806">
+              <caret line="736" column="51" selection-start-line="736" selection-start-column="51" selection-end-line="736" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="_manual.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_manual.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="29.8">
-              <caret line="8939" column="19" selection-start-line="8939" selection-start-column="19" selection-end-line="8939" selection-end-column="19" />
+            <state vertical-scroll-proportion="28.563637">
+              <caret line="8964" column="2" selection-start-line="8964" selection-start-column="2" selection-end-line="8964" selection-end-column="15" />
               <folding>
                 <marker date="1487684439049" expanded="true" signature="189230:189295" placeholder="{...}" />
                 <marker date="1487684439049" expanded="true" signature="189329:189396" placeholder="{...}" />
@@ -69,6 +69,11 @@
                 <element signature="e#129604#129723#2" expanded="true" />
                 <element signature="e#217572#217786#2" expanded="true" />
                 <element signature="e#218015#218356#2" expanded="true" />
+                <marker date="1487684439019" expanded="true" signature="180193:180258" placeholder="{...}" />
+                <marker date="1487684439019" expanded="true" signature="180291:180358" placeholder="{...}" />
+                <marker date="1487684439019" expanded="true" signature="180416:180486" placeholder="{...}" />
+                <marker date="1487684439019" expanded="true" signature="180763:180831" placeholder="{...}" />
+                <marker date="1487684439019" expanded="true" signature="180866:180894" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -294,20 +299,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -326,14 +317,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CarRentals\Prototype\css" />
       <recent name="D:\CarRentals\Prototype\CarRentalsPrototype\carrentals\offers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CarRentals\Prototype" />
       <recent name="D:\CarRentals\Prototype\CarRentalsPrototype\carrentals" />
       <recent name="D:\CarRentals\Prototype\CarRentalsPrototype\carrentals\offers" />
       <recent name="D:\CarRentals\Prototype\CarRentalsPrototype\assets\fonts" />
       <recent name="D:\CarRentals\Prototype\CarRentalsPrototype" />
-      <recent name="D:\CarRentals\Prototype\CarRentalsPrototype\carrentals\checkout" />
     </key>
   </component>
   <component name="RunManager">
@@ -400,7 +392,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15437302" sideWeight="0.4957265" order="0" side_tool="false" content_ui="combo" />
@@ -409,7 +401,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19144385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19144385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15173867" sideWeight="0.50427353" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -447,19 +439,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/offers/offers_SFO_mWebCollapsible.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding />
+        <state vertical-scroll-proportion="0.33283803">
+          <caret line="896" column="12" selection-start-line="896" selection-start-column="10" selection-end-line="896" selection-end-column="12" />
+          <folding>
+            <marker date="1487167041310" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1487167041310" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1487167041310" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1487167041310" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1487167041310" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/app.scss">
+    <entry file="file://$PROJECT_DIR$/scss/_manual.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="28.563637">
+          <caret line="8964" column="2" selection-start-line="8964" selection-start-column="2" selection-end-line="8964" selection-end-column="15" />
+          <folding>
+            <marker date="1487684439049" expanded="true" signature="189230:189295" placeholder="{...}" />
+            <marker date="1487684439049" expanded="true" signature="189329:189396" placeholder="{...}" />
+            <marker date="1487684439049" expanded="true" signature="189456:189526" placeholder="{...}" />
+            <marker date="1487684439049" expanded="true" signature="189815:189883" placeholder="{...}" />
+            <marker date="1487684439049" expanded="true" signature="189919:189947" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,28 +478,35 @@
             <element signature="e#129604#129723#2" expanded="true" />
             <element signature="e#217572#217786#2" expanded="true" />
             <element signature="e#218015#218356#2" expanded="true" />
+            <marker date="1487684439019" expanded="true" signature="180193:180258" placeholder="{...}" />
+            <marker date="1487684439019" expanded="true" signature="180291:180358" placeholder="{...}" />
+            <marker date="1487684439019" expanded="true" signature="180416:180486" placeholder="{...}" />
+            <marker date="1487684439019" expanded="true" signature="180763:180831" placeholder="{...}" />
+            <marker date="1487684439019" expanded="true" signature="180866:180894" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_manual.scss">
+    <entry file="file://$PROJECT_DIR$/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.8">
-          <caret line="8939" column="19" selection-start-line="8939" selection-start-column="19" selection-end-line="8939" selection-end-column="19" />
-          <folding>
-            <marker date="1487684439049" expanded="true" signature="189230:189295" placeholder="{...}" />
-            <marker date="1487684439049" expanded="true" signature="189329:189396" placeholder="{...}" />
-            <marker date="1487684439049" expanded="true" signature="189456:189526" placeholder="{...}" />
-            <marker date="1487684439049" expanded="true" signature="189815:189883" placeholder="{...}" />
-            <marker date="1487684439049" expanded="true" signature="189919:189947" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33283803">
-          <caret line="735" column="33" selection-start-line="735" selection-start-column="33" selection-end-line="735" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.35809806">
+          <caret line="736" column="51" selection-start-line="736" selection-start-column="51" selection-end-line="736" selection-end-column="51" />
           <folding />
         </state>
       </provider>
