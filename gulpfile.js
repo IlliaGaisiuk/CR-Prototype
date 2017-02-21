@@ -16,7 +16,7 @@ gulp.task('sass', function () {
         .pipe($.autoprefixer({
             browsers: ['last 2 versions', 'ie >= 9']
         }))
-        .pipe(gulp.dest('app.css'));
+        .pipe(gulp.dest('./css/app.css'));
 });
 
 gulp.task('default', ['sass', 'server']);
