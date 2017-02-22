@@ -58,18 +58,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offers_SFO_mWebCollapsible.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/offers/offers_SFO_mWebCollapsible.html">
+      <file leaf-file-name="offers_LAX.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/offers/offers_LAX.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3374612">
-              <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
-              <folding>
-                <marker date="1487772168424" expanded="true" signature="26417:26482" placeholder="{...}" />
-                <marker date="1487772168424" expanded="true" signature="26522:26589" placeholder="{...}" />
-                <marker date="1487772168424" expanded="true" signature="26661:26731" placeholder="{...}" />
-                <marker date="1487772168424" expanded="true" signature="27094:27162" placeholder="{...}" />
-                <marker date="1487772168424" expanded="true" signature="27204:27232" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="0.33225283">
+              <caret line="910" column="47" selection-start-line="910" selection-start-column="32" selection-end-line="910" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,11 +125,11 @@
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/offers/offers_SFO.html" />
         <option value="$PROJECT_DIR$/offers/offers_LAX.html" />
-        <option value="$PROJECT_DIR$/offers/offers_AUS_LAX_mWebExpanded.html" />
-        <option value="$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html" />
         <option value="$PROJECT_DIR$/offers/offers_AUS_LAX.html" />
+        <option value="$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html" />
+        <option value="$PROJECT_DIR$/offers/offers_AUS_LAX_mWebExpanded.html" />
+        <option value="$PROJECT_DIR$/offers/offers_SFO.html" />
         <option value="$PROJECT_DIR$/offers/offers_SFO_mWebCollapsible.html" />
         <option value="$PROJECT_DIR$/offers/offers_SFO_mWebExpanded.html" />
       </list>
@@ -417,7 +411,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15437302" sideWeight="0.4957265" order="0" side_tool="false" content_ui="combo" />
@@ -426,7 +420,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2513369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2513369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15173867" sideWeight="0.50427353" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -503,53 +497,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_SFO.html">
+    <entry file="file://$PROJECT_DIR$/offers/offers_SFO_mWebCollapsible.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="41.73077">
-          <caret line="821" column="98" selection-start-line="821" selection-start-column="76" selection-end-line="821" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_LAX.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34674922">
-          <caret line="753" column="4" selection-start-line="753" selection-start-column="8" selection-end-line="753" selection-end-column="110" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebExpanded.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6337115">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34210527">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078947365">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state vertical-scroll-proportion="-3.4700162">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/offers/offers_SFO_mWebExpanded.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027552674">
-          <caret line="105" column="4" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers/offers_SFO.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="104" column="70" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -568,17 +536,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offers/offers_SFO_mWebCollapsible.html">
+    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3374612">
-          <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
-          <folding>
-            <marker date="1487772168424" expanded="true" signature="26417:26482" placeholder="{...}" />
-            <marker date="1487772168424" expanded="true" signature="26522:26589" placeholder="{...}" />
-            <marker date="1487772168424" expanded="true" signature="26661:26731" placeholder="{...}" />
-            <marker date="1487772168424" expanded="true" signature="27094:27162" placeholder="{...}" />
-            <marker date="1487772168424" expanded="true" signature="27204:27232" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="21" column="70" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebCollapsible.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers/offers_AUS_LAX_mWebExpanded.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers/offers_LAX.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225283">
+          <caret line="910" column="47" selection-start-line="910" selection-start-column="32" selection-end-line="910" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
