@@ -20,7 +20,7 @@ gulp.task('sass', function () {
 });
 
 
-gulp.task('default', ['server']);
+gulp.task('default', ['sass', 'server']);
 
 gulp.task('watcher', ['sass', 'server'], function () {
     gulp.watch(['scss/**/*.scss'], ['sass']);

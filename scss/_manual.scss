@@ -8840,6 +8840,7 @@ ul {
 
 .car-counter .filter-type small {
   color: #6f6f6f;
+  line-height: .875rem;
 }
 
 #narrow-filters a {
@@ -8888,10 +8889,22 @@ ul {
   top: 152px;
 }
 
+.CityList {
+  margin: 0 !important;
+  position: absolute;
+  top: 180px;
+}
+
 .AirportCarProperties {
   margin-left: 0;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.CityCarProperties {
+  margin-left: 0;
+  padding-top: 50px;
+  padding-bottom: 15px;
 }
 
 .ParentRow {
@@ -8963,6 +8976,15 @@ ul.checklist {
 
 ul.checklist li {
   flex-grow: 1;
+}
+
+.no-dropoff h2.no-margin {
+  font-size: 3.5vw;
+  line-height: 1.4;
+}
+
+p.car-box-station.mobile-car-station.mt-10.no-icon {
+  margin-bottom: 0;
 }
 
 /*-- End --*/
